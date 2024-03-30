@@ -1,7 +1,5 @@
 package com.example.lab_cm.fragments.list
 
-import android.app.DirectAction
-import android.graphics.Color
 import android.icu.text.SimpleDateFormat
 import android.view.LayoutInflater
 import android.view.View
@@ -32,10 +30,10 @@ class ListAdapter: RecyclerView.Adapter<ListAdapter.MyViewHolder>() {
         val currentItem = notesList[position]
         holder.itemView.findViewById<TextView>(R.id.note_txt).text = currentItem.note
 
-        if(position%2 == 0)
+        /*if(position%2 == 0)
             holder.itemView.findViewById<ConstraintLayout>(R.id.rowLayout).setBackgroundColor(Color.parseColor("#f3f2f5"))
         else
-            holder.itemView.findViewById<ConstraintLayout>(R.id.rowLayout).setBackgroundColor(Color.parseColor("#cacacc"))
+            holder.itemView.findViewById<ConstraintLayout>(R.id.rowLayout).setBackgroundColor(Color.parseColor("#cacacc"))*/
 
         val createdDateTextView = holder.itemView.findViewById<TextView>(R.id.date_txt)
         val sdf = SimpleDateFormat("dd/MM/yy", Locale.getDefault())

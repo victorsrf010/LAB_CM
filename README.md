@@ -24,5 +24,6 @@ A aplicação oferece as seguintes funcionalidades:
 ## Orientador
 
 - **Ricardo Castro**
+- **Marcelo Fernandes**
   
 Curso de Engenharia Informática, [IPVC/ESTG](https://www.ipvc.pt/escola-superior-de-tecnologia-e-gestao), Ano Letivo 2023-2024.

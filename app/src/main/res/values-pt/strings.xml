@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB_CM</string>
+    <string name="created_at">Criada em: %1$s</string>
+    <string name="save_btn">Guardar</string>
+    <string name="back_btn">Voltar</string>
+    <string name="delete_btn">Apagar</string>
+    <string name="note_ph">Nota</string>
+    <string name="no_empty_note">Não pode criar uma nota vazia!</string>
+    <string name="update_success">Nota atualizada com sucesso!</string>
+    <string name="positive">Sim</string>
+    <string name="negative">Não</string>
+    <string name="delete_success">Nota apagada com sucesso!</string>
+    <string name="delete_title">Apagar</string>
+    <string name="delete_confirm">Tem a certeza que pretende apagar esta nota?</string>
+    <string name="save_success">Gravado com sucesso!</string>
+    <string name="change_language">PT</string>
+</resources>

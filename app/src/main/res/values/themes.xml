@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.LAB_CM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.LAB_CM" parent="Base.Theme.LAB_CM">
+        <!-- You can place app-specific customizations here -->
+    </style>
+</resources>

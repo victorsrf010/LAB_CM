@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LAB_CM</string>
+    <string name="created_at">Created at: %1$s</string>
+    <string name="save_btn">Save</string>
+    <string name="back_btn">Back</string>
+    <string name="delete_btn">Delete</string>
+    <string name="note_ph">Note</string>
+    <string name="no_empty_note">You can\'t create an empty note!</string>
+    <string name="update_success">Note updated successfully!</string>
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+    <string name="delete_success">Note deleted!</string>
+    <string name="delete_title">Delete</string>
+    <string name="delete_confirm">Are you sure you want to delete this note?</string>
+    <string name="save_success">Saved!</string>
+    <string name="change_language">EN</string>
+</resources>
